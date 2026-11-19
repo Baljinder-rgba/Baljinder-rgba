@@ -1,11 +1,10 @@
-<img width="640" height="360" alt="halo-master-chief" src="https://github.com/user-attachments/assets/9b26c596-7a3b-41b8-b2ce-9a36ecdfbbfa" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a967178-62ed-43c4-8269-2c1f2e21231d"/>
-</p>
+  <img width="640" height="360" alt="halo-master-chief" src="https://github.com/user-attachments/assets/9b26c596-7a3b-41b8-b2ce-9a36ecdfbbfa" />
+  </p>
 
 <h1 align="center">
   Let's Connect and have a Chat! 💬
