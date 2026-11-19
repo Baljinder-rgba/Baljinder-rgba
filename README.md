@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <img width="640" height="360" alt="halo-master-chief" src="https://github.com/user-attachments/assets/4c3e3f60-8224-4f10-a2ab-464cd2357a44" />
+  <img width="640" height="360" alt="clideo_editor_393e7911724340899a652d51b85fa216-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/89d9488e-34fc-4b5d-b50e-77cda507c401"/>
+
   </p>
 
 <h1 align="center">
