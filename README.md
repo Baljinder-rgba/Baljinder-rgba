@@ -20,17 +20,21 @@
   </a>
 </p>
 
----
-
 <h2> 👨‍💻 &nbsp;About Me</h2>
 
-- 🎮 **Focus:** Game Development, 3D Modeling & Gameplay Programming
-- 🔭 **Currently working on:** Building interactive games and mechanics in **Unity** & **C#**
-- 🌱 **Exploring:** 3D asset creation in **Blender** and performance optimization in **C++**
-- 🌐 **Portfolio:** Check out my playable builds and projects at [baljinder-rgba.github.io/Portfolio](https://baljinder-rgba.github.io/Portfolio/)
-- ⚡ **Fun fact:** *Add a quick personal line or favorite game genre here!*
+```ini
+; DEV_PROFILE.CFG
+[identity]
+name        = "Baljinder Singh"
+role        = "Unity Game Developer"
+motto       = "Artist by nature. Developer by choice."
+portfolio   = "[https://baljinder-rgba.github.io/Portfolio/](https://baljinder-rgba.github.io/Portfolio/)"
 
----
+[stack]
+engine      = "Unity"
+languages   = ["C#", "C++"]
+art_tools   = ["Blender", "Shaders"]
+status      = "Building playable worlds, one mechanic at a time"
 
 <h2> 🚀 &nbsp;Tech Stack & Tools</h2>
 <p align="left">
