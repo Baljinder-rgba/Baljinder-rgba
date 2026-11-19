@@ -10,7 +10,7 @@
 <a href="https://baljinder-rgba.github.io/Portfolio/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="www.linkedin.com/in/baljinder-singh-58427b398">
+<a href="https://www.linkedin.com/in/baljinder-singh-58427b398">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://thepiyushmalhotra.medium.com/">
