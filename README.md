@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
+![Alt Text](https://tenor.com/bqwkp.gif)
+
 <h1 align="center">
   Let's Connect and have a Chat! 💬
 </h1>
