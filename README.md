@@ -13,6 +13,9 @@
 <a href="https://www.linkedin.com/in/baljinder-singh-58427b398">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
+<a href="https://www.linkedin.com/in/baljinder-singh-58427b398">
+  <img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4r1fhYhH7cPDqo9bk3h9X47zd__hMCx8_w-NKjlxgtLPT_XQbqiQ9pNoR&s=10"/>
+</a>
 </p>
 
 ---
