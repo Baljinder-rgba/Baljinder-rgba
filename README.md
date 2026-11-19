@@ -1,3 +1,4 @@
+<img width="640" height="360" alt="halo-master-chief" src="https://github.com/user-attachments/assets/9b26c596-7a3b-41b8-b2ce-9a36ecdfbbfa" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
