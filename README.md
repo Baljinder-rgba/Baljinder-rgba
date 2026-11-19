@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="640" height="360" alt="halo-master-chief" src="https://github.com/user-attachments/assets/9b26c596-7a3b-41b8-b2ce-9a36ecdfbbfa" />
+  <img width="640" height="360" alt="halo-master-chief" src="https://github.com/user-attachments/assets/4c3e3f60-8224-4f10-a2ab-464cd2357a44" />
   </p>
 
 <h1 align="center">
