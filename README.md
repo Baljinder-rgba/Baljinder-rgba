@@ -30,8 +30,8 @@
 name      = "Baljinder Singh"
 role      = "Unity Game Developer"
 motto     = "Artist by nature. Developer by choice."
-portfolio = "[https://baljinder-rgba.github.io/Portfolio/](https://baljinder-rgba.github.io/Portfolio/)"
-status    = "Building playable worlds, one mechanic at a time"
+portfolio = "https://baljinder-rgba.github.io/Portfolio/"
+status    = "Building playable worlds, One mechanic at a time"
 ```
 
 ---
