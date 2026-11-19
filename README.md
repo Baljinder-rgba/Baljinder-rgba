@@ -13,9 +13,8 @@
 <a href="https://www.linkedin.com/in/baljinder-singh-58427b398">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://www.linkedin.com/in/baljinder-singh-58427b398">
-  <link href="https://fonts.googleapis.com/css2?family=Material+Icons" rel="stylesheet">
-</a>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/[ICON SLUG].svg" />
 </p>
 
   
