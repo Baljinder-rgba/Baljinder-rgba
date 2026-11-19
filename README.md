@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Let's Connect and have a Chat! 💬
 </h1>
 
 <p align="center">
@@ -20,21 +20,21 @@
   </a>
 </p>
 
+---
+
 <h2> 👨‍💻 &nbsp;About Me</h2>
 
 ```ini
 ; DEV_PROFILE.CFG
 [identity]
-name        = "Baljinder Singh"
-role        = "Unity Game Developer"
-motto       = "Artist by nature. Developer by choice."
-portfolio   = "[https://baljinder-rgba.github.io/Portfolio/](https://baljinder-rgba.github.io/Portfolio/)"
+name      = "Baljinder Singh"
+role      = "Unity Game Developer"
+motto     = "Artist by nature. Developer by choice."
+portfolio = "[https://baljinder-rgba.github.io/Portfolio/](https://baljinder-rgba.github.io/Portfolio/)"
+status    = "Building playable worlds, one mechanic at a time"
+```
 
-[stack]
-engine      = "Unity"
-languages   = ["C#", "C++"]
-art_tools   = ["Blender", "Shaders"]
-status      = "Building playable worlds, one mechanic at a time"
+---
 
 <h2> 🚀 &nbsp;Tech Stack & Tools</h2>
 <p align="left">
