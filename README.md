@@ -15,14 +15,14 @@
     <img height="45" width="45" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://your-username.itch.io" target="_blank">
+  <a href="https://baljindersingh.itch.io/" target="_blank">
     <img height="45" width="45" src="https://cdn.simpleicons.org/itchdotio/FA5C5C" alt="Itch.io" />
   </a>
 </p>
 
 ---
 
-<h2> 👨‍💻 &nbsp;About Me</h2>
+<h2> 👨‍💻 &nbsp;Who am I</h2>
 
 ```ini
 ; DEV_PROFILE.CFG
