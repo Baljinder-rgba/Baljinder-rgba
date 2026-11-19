@@ -7,17 +7,19 @@
 </h1>
 
 <p align="center">
-<a href="https://baljinder-rgba.github.io/Portfolio/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/baljinder-singh-58427b398">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/[ICON SLUG].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v16/icons/[ICON SLUG].svg" />
+  <a href="https://baljinder-rgba.github.io/Portfolio/" target="_blank">
+    <img height="45" width="45" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Website.svg" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/baljinder-singh-58427b398" target="_blank">
+    <img height="45" width="45" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://your-username.itch.io" target="_blank">
+    <img height="45" width="45" src="https://cdn.simpleicons.org/itchdotio/FA5C5C" alt="Itch.io" />
+  </a>
 </p>
 
-  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
