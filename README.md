@@ -26,11 +26,11 @@
 
 ```ini
 [identity]
-name      = "Baljinder Singh"
-role      = "Unity Game Developer"
-motto     = "Artist by nature. Developer by choice."
-portfolio = "https://baljinder-rgba.github.io/Portfolio/"
-status    = "Building playable worlds, One mechanic at a time"
+string name      = "Baljinder Singh";
+string role      = "Unity Game Developer";
+string motto     = "Artist by nature. Developer by choice.";
+string portfolio = "https://baljinder-rgba.github.io/Portfolio/";
+string status    = "Building playable worlds, One mechanic at a time";
 ```
 
 ---
