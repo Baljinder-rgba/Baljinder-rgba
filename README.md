@@ -25,7 +25,6 @@
 <h2> 👨‍💻 &nbsp;Who am I</h2>
 
 ```ini
-; DEV_PROFILE.CFG
 [identity]
 name      = "Baljinder Singh"
 role      = "Unity Game Developer"
